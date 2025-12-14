@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#4A90E2">
+  <!-- Smartphone body -->
+  <rect x="7" y="2" width="10" height="20" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
+  
+  <!-- Screen -->
+  <rect x="8.5" y="4" width="7" height="13" rx="0.5" fill="#4A90E2" opacity="0.3"/>
+  
+  <!-- Home button -->
+  <circle cx="12" cy="19.5" r="1" stroke="currentColor" stroke-width="1.2" fill="none"/>
+  
+  <!-- Camera/Speaker -->
+  <line x1="10.5" y1="3" x2="13.5" y2="3" stroke="currentColor" stroke-width="1" stroke-linecap="round"/>
+</svg>
